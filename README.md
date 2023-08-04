@@ -27,8 +27,6 @@ I'll leave a link to my YouTube channel so you can see these previous steps and 
 
 For the tests, it is necessary to load a set of data according to the objective, the loaded data were used in the research carried out with the title:
 
-"A metric-based approach to classifying metadata in tweets applied in a recommendation system"
-
 The metrics and explanations I'm leaving here in Git with the URL address: http://www.zolotareff.com.br/metadata and on the YouTube channel. (As soon as possible)
 
 To understand how the classification algorithm works, it is necessary to observe the pseudocode, however, part of the expressions in the article happen automatically, however, at the request of advisors, I am putting the explanation.
